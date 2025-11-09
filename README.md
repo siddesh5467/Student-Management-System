@@ -7,7 +7,6 @@ This is a simple Python program demonstrating *Object-Oriented Programming (OOP)
 - **Constructors (__init__ method)**
 - *Methods*
 - *Composition (School has many Students)*
-
 ---
 
 ## 🚀 Features
